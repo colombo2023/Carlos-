@@ -10,3 +10,5 @@ Experiencia:
 Logistica
 
 Aluno unimar
+
+Formado em ADS
